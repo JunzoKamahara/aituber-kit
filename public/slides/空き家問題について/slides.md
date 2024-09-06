@@ -60,11 +60,12 @@ https://www8\.cao\.go\.jp/kourei/taikou\-kentoukai/k\_4/pdf/s4\.pdf
 
 <span style="color:#1A1A1C">そのまま放置すれば倒壊等著しく保安上危険となるおそれのある状態又は著しく衛生上有害となるおそれのある状態、適切な管理が行われていないことにより著しく景観を損なっている状態その他周辺の生活環境の保全を図るために放置することが不適切である状態にあると認められる空家</span>
 
- 固定資産税及び都市計画税の軽減措置
- 種類　　　　　小規模住宅用地（200㎡以下）　一般住宅用地(200㎡超）
- 固定資産税　　課税標準の6分の1に減額　　　課税標準の3分の1に減額
- 都市計画税　　課税標準の3分の1に減額　　　課税標準の3分の2に減額
-
+<div style="font-size:0.5em">
+ 固定資産税及び都市計画税の軽減措置<br/>
+ 種類　　　　　小規模住宅用地（200㎡以下）　一般住宅用地(200㎡超）<br/>
+ 固定資産税　　課税標準の6分の1に減額　　　課税標準の3分の1に減額<br/>
+ 都市計画税　　課税標準の3分の1に減額　　　課税標準の3分の2に減額<br/>
+</div>
 
 ---
 
@@ -95,6 +96,7 @@ https://www8\.cao\.go\.jp/kourei/taikou\-kentoukai/k\_4/pdf/s4\.pdf
 
 # 空家等管理活用支援法人
 
+<div style="font-size:0.5em">
 * 京都市
   * 公益社団法人京都府宅地建物取引業協会
   * 一般社団法人京都府不動産コンサルティング協会
@@ -107,7 +109,7 @@ https://www8\.cao\.go\.jp/kourei/taikou\-kentoukai/k\_4/pdf/s4\.pdf
   * 必要に応じて取り組んでおり、当面の間、指定しない
 * 大阪市
   * 区で検討
-
+</div>
 
 
 ---
@@ -121,6 +123,7 @@ https://www8\.cao\.go\.jp/kourei/taikou\-kentoukai/k\_4/pdf/s4\.pdf
 <div style="font-size:0.5em">
 https://www\.mlit\.go\.jp/totikensangyo/const/sosei\_const\_tk3\_000131\.html
 </div>
+
 ---
 
 
