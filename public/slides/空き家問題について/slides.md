@@ -96,7 +96,7 @@ https://www8\.cao\.go\.jp/kourei/taikou\-kentoukai/k\_4/pdf/s4\.pdf
 
 # 空家等管理活用支援法人
 
-<div style="font-size:0.5em">
+<div style="font-size:0.9em">
 * 京都市
   * 公益社団法人京都府宅地建物取引業協会
   * 一般社団法人京都府不動産コンサルティング協会
